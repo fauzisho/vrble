@@ -1,0 +1,9 @@
+This is a placeholder file for BLE file transfer.
+You can replace this content with your actual data.
+
+Sample data:
+- Line 1: Device information
+- Line 2: Status update
+- Line 3: Configuration data
+
+This file will be transferred via Bluetooth Low Energy.
